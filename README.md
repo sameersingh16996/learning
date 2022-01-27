@@ -1,2 +1,2 @@
 # learning
-Hello guys.
+Hello!
